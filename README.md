@@ -1,0 +1,2 @@
+# help.simpleridea.com
+FAQ
